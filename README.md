@@ -23,4 +23,4 @@ Each country is given a happiness score that is the sum of scores from the follo
 -dystopia (benchmark country corresponding to the lowest possible values in each of the criteria)
 
 
-### In this project we aim to analyze the relationships between the different variables, discover underlying connections through efficient visualizations.
+#### In this project we aim to analyze the relationships between the different variables and discover underlying connections through efficient visualizations.
