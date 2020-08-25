@@ -9,12 +9,18 @@ The main life evaluation question asked in these surveys is the following:
 Each country is given a happiness score that is the sum of scores from the following 7 criteria
 
 -GDP per capita
+
 -healthy years of life expectancy
 
 -social support (as measured by having someone to count on in times of trouble)
+
 -trust (as measured by a perceived absence of corruption in government and business)
+
 -perceived freedom to make life decisions
+
 -generosity (as measured by recent donations)
+
 -dystopia (benchmark country corresponding to the lowest possible values in each of the criteria)
 
-In this project we aim to analyze the relationships between the different variables, discover underlying connections through efficient visualizations.
+
+# In this project we aim to analyze the relationships between the different variables, discover underlying connections through efficient visualizations.
