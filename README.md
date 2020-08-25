@@ -10,6 +10,7 @@ Each country is given a happiness score that is the sum of scores from the follo
 
 -GDP per capita
 -healthy years of life expectancy
+
 -social support (as measured by having someone to count on in times of trouble)
 -trust (as measured by a perceived absence of corruption in government and business)
 -perceived freedom to make life decisions
