@@ -1,5 +1,5 @@
 # World Happiness Report 2017
-1st project of the EPFL COS - Visualization Analysis on World Happiness Report 2017 Dataset, collected by the Gallup World Poll
+Visualization Analysis on World Happiness Report 2017 Dataset, collected by the Gallup World Poll
 This dataset includes information from more than 160 countries in over 140 languages. The main goal of this poll was to identify the key elements who drive a person's wellbeing
 
 The main life evaluation question asked in these surveys is the following:
